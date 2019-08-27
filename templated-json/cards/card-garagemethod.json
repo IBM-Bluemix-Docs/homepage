@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardgaragemethodcardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "https://ibm.com/cloud/garage/category/practices",
+      "linkText": "{{cardgaragemethodcardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/garage.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "card-garagemethod"
+}

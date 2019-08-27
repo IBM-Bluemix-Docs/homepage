@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "containers?topic=containers-cli-plugin-kubernetes-service-cli",
+      "linkText": "{{listitemkubecmdreferencelistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "list-item-kube-cmd-reference"
+}

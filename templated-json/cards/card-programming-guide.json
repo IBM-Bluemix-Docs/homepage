@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardprogramguidecardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "https://ibm.box.com/s/tr0rensjf8pt2184irppu2c6dpw0o8yf",
+      "linkText": "{{cardprogramguidecardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/cloud-programming-guide.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "test"
+  ],
+  "name": "card-programguide"
+}

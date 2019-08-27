@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "videoTitle": {
+      "elementType": "text",
+      "value": "{{videodeveloperTitle}}"
+    },
+    "videoDesc": {
+      "elementType": "text",
+      "value": "{{videodeveloperDesc}}"
+    },
+    "videoLink": {
+      "elementType": "link",
+      "linkURL": "Bsy6mhRc7ZA",
+      "linkText": "{{videodeveloperAltText}}",
+      "placeHolderImage": "/docs-content/v1/content/homepage/images/Disabled_Video_Light.svg"
+    }
+  },
+  "type": "videos",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "video-developer"
+}

@@ -1,0 +1,25 @@
+{
+  "elements": {
+    "homepageContainerTab": {
+      "type": "reference",
+      "values": [
+        "/tabs/tab-get-start.json",
+        "/tabs/tab-build.json",
+        "/tabs/tab-manage.json",
+        "/tabs/tab-tools.json",
+        "/tabs/tab-dev-guide.json",
+        "/tabs/tab-all-docs.json"
+      ]
+    },
+    "Title": {
+      "elementType": "text",
+      "value": "{{homepagecontainerTitle}}"
+    }
+  },
+  "type": "homepage-container",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "homepage-container"
+}

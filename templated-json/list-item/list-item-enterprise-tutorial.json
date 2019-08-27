@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "account?topic=account-enterprise-tutorial",
+      "linkText": "{{listitementerprisetutoriallistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "list-item-enterprise-tutorial"
+}

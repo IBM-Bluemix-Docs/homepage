@@ -1,0 +1,27 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistusecasesectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistusecasesectionListDesc}}"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "/list-item/list-item-byocusecase.json",
+        "/list-item/list-item-scratchusecase.json",
+        "/list-item/list-item-outsideusecase.json",
+        "/list-item/list-item-migrateusecase.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "section-tile-usecase"
+}

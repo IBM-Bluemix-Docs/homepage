@@ -1,0 +1,15 @@
+{
+  "elements": {
+    "footerItemLink": {
+      "elementType": "link",
+      "linkURL": "hybrid/index.html",
+      "linkText": "{{footeritemhybridfooterItemLink}}"
+    }
+  },
+  "type": "footer-item",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "footer-item-hybrid"
+}

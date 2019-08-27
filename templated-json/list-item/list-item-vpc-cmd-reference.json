@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "cli?topic=vpc-infrastructure-cli-plugin-vpc-reference",
+      "linkText": "{{listitemvpccmdreferencelistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "list-item-vpc-cmd-reference"
+}

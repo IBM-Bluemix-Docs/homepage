@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardarchcentercardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "https://ibm.com/cloud/garage/architectures",
+      "linkText": "{{cardarchcentercardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/architecture-center.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "card-archcenter"
+}

@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{managingapiscardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "api-management?topic=api-management-managed_apis",
+      "linkText": "{{managingapiscardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/Managing_APIs.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "prod",
+    "test"
+  ],
+  "name": "managing-apis"
+}

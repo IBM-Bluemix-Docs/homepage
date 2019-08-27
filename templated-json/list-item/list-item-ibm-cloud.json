@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "overview/ibm-cloud-platform.html",
+      "linkText": "{{listitemibmcloudlistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "list-item-ibm-cloud"
+}

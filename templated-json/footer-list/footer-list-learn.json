@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "footerListTitle": {
+      "elementType": "text",
+      "value": "{{footerlistlearnfooterListTitle}}"
+    },
+    "footerListItem": {
+      "type": "reference",
+      "values": [
+        "/footer-item/footer-item-blog.json",
+        "/footer-item/footer-item-ibm-cloud.json",
+        "/footer-item/footer-item-case-studies.json"
+      ]
+    }
+  },
+  "type": "footer-list",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "footer-list-learn"
+}

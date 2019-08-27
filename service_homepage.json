@@ -1,0 +1,134 @@
+{
+  "id": "docs_homepage_services",
+  "title": "Compute & Services",
+  "categories":
+  [
+    {
+      "id":
+      "boilerplate",
+      "name": "Boilerplates",
+      "tags": "boilerplate"
+    } ],
+  "items": [{
+    "title": "Cloud Foundry Public",
+    "img": "homepage/images/cloud-foundry.svg",
+    "href": "cloud-foundry-public?topic=cloud-foundry-public-about-cf",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud Container Service",
+    "img": "homepage/images/containerServiceIcon.svg",
+    "href": "containers?topic=containers-getting-started",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud Container Registry",
+    "img": "homepage/images/registry_icon.svg",
+    "href": "services/Registry?topic=registry-getting-started",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud for VMware Solutions",
+    "img": "homepage/images/vmware_icon.png",
+    "href": "services/vmwaresolutions?topic=vmware-solutions-getting-started",
+    "category_id": "compute"
+  },{
+    "title": "Watson IoT Platform Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/IoT-starter/iot500.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "IoT for Electronics Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/IoTElectronics-starter/iot4egettingstarted.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "Java Cloudant Web Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/java-cloudant/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "LoopBack Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/LoopBack/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "Node.js Cloudant DB Web Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/node-cloudant/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "Node-RED Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/Node-RED/nodered.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "Ruby Sinatra Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/rubysinatra/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "StrongLoop Arc Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/StrongLoopArc/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "Java Workload Scheduler Web Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/workloadscheduler/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "IBM XPages Web Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/XPagesStarter/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "type": "extra",
+    "title": "Programming with Go on IBM Cloud",
+    "href": "go?topic=go-getting-started",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Programming with Java on IBM Cloud",
+    "href": "java?topic=java-getting-started",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Programming with Node on IBM Cloud",
+    "href": "node?topic=nodejs-getting-started",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Programming with Swift on IBM Cloud",
+    "href": "swift?topic=swift-getting-started",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Automating cloud resource provisioning with Terraform",
+    "href": "terraform?topic=terraform-getting-started",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Working with Toolchains",
+    "href": "services/ContinuousDelivery?topic=ContinuousDelivery-getting-started",
+    "img": "homepage/images/toolchains_icon.svg",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Dedicated GitHub Enterprise",
+    "href": "services/ghededicated?topic=ghededicated-getting-started",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Building mobile apps",
+    "href": "services/mobile?topic=mobile-about",
+    "category_id": "mobile"
+  }, {
+    "type": "extra",
+    "title": "IBM Cloud Data Shield",
+    "href": "services/data-shield?topic=data-shield-getting-started",
+    "category_id": "security"
+  }, {
+    "type": "extra",
+    "title": "Security groups",
+    "href": "infrastructure/security-groups?topic=security-groups-getting-started-with-security-groups",
+    "category_id": "security"
+  }]
+}

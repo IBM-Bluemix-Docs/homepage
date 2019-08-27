@@ -1,0 +1,35 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistaccountssectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistaccountssectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "/section-link/section-link-tell-me-more-accounts.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "/list-item/list-item-change-plan.json",
+        "/list-item/list-item-rg-bps.json",
+        "/list-item/list-item-account-settings.json",
+        "/list-item/list-item-bps-account.json",
+        "/list-item/list-item-enterprise-tutorial.json",
+        "/list-item/list-item-enterprise-bps.json",
+        "/list-item/list-item-account-faqs.json",
+        "/list-item/list-item-hybrid.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "section-list-accounts"
+}

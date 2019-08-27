@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "sectionlinklabel": {
+      "elementType": "link",
+      "linkURL": "developing/get-coding/new_service.html",
+      "linkText": "{{sectionlinktellmemoredevguidesectionlinklabel}}"
+    },
+    "sectionLinkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/right-arrow.svg"
+    }
+  },
+  "type": "section-link",
+  "tags": [
+    "test"
+  ],
+  "name": "section-link-tell-me-more-dev-guide"
+}

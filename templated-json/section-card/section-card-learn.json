@@ -1,0 +1,29 @@
+{
+  "elements": {
+    "sectionCardTitle": {
+      "elementType": "text",
+      "value": "{{sectioncardlearnsectionCardTitle}}"
+    },
+    "sectionCardDesc": {
+      "elementType": "text",
+      "value": "{{sectioncardlearnsectionCardDesc}}"
+    },
+    "sectionCards": {
+      "type": "reference",
+      "values": [
+        "/cards/card-solutions-tutorials.json",
+        "/cards/card-archcenter.json",
+        "/cards/card-garagemethod.json",
+        "/cards/card-ibmdeveloper.json",
+        "/cards/card-skillsgateway.json",
+        "/cards/card-programming-guide.json"
+      ]
+    }
+  },
+  "type": "section-card",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "section-card-learn"
+}

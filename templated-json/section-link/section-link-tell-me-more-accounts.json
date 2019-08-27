@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "sectionlinklabel": {
+      "elementType": "link",
+      "linkURL": "account/index.html",
+      "linkText": "{{sectionlinktellmemoreaccountssectionlinklabel}}"
+    },
+    "sectionLinkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/right-arrow.svg"
+    }
+  },
+  "type": "section-link",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "section-link-tell-me-more-accounts"
+}

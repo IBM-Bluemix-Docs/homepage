@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardibmdevelopercardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "https://developer.ibm.com/depmodels/cloud",
+      "linkText": "{{cardibmdevelopercardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/ibm-developer.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "card-ibmdeveloper"
+}

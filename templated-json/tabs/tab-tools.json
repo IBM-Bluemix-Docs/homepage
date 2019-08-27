@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "tabMenuContainerTitle": {
+      "elementType": "text",
+      "value": "{{tabtoolstabMenuContainerTitle}}"
+    },
+    "sections": {
+      "type": "reference",
+      "values": [
+        "/section-code/section-code-cli.json",
+        "/section-list/section-list-cli-reference.json",
+        "/section-list/section-list-developer-tools.json"
+      ]
+    }
+  },
+  "type": "tab-menu-container",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "tab-tools"
+}

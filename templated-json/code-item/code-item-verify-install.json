@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "codeItemDesc": {
+      "elementType": "text",
+      "value": "{{codeitemverifyinstallcodeItemDesc}}"
+    },
+    "codeItemFormattedText": {
+      "elementType": "text",
+      "value": "{{codeitemverifyinstallcodeItemFormattedText}}"
+    }
+  },
+  "type": "code-item",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "code-item-verify-install"
+}

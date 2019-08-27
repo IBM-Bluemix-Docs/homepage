@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "videoTitle": {
+      "elementType": "text",
+      "value": "{{videorentbuyTitle}}"
+    },
+    "videoDesc": {
+      "elementType": "text",
+      "value": "{{videorentbuyDesc}}"
+    },
+    "videoLink": {
+      "elementType": "link",
+      "linkURL": "Kmt_odiCWvU",
+      "linkText": "{{videodeveloperAltText}}",
+      "placeHolderImage": "/docs-content/v1/content/homepage/images/Disabled_Video_Light.svg"
+    }
+  },
+  "type": "videos",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "video-rent-buy"
+}

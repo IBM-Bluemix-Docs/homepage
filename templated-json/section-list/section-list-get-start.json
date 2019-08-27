@@ -1,0 +1,31 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistgetstartsectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistgetstartsectionListDesc}}"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "/list-item/list-item-ibm-cloud.json",
+        "/list-item/list-item-create-apps.json",
+        "/list-item/list-item-console.json",
+        "/list-item/list-item-working-with-resources.json",
+        "/list-item/list-item-personal-onboard.json",
+        "/list-item/list-item-third-party.json",
+        "/list-item/list-item-it-ops-journey.json",
+        "/list-item/list-item-whats-new.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "section-list-get-start"
+}

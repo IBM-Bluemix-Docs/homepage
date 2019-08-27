@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardsldncardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "https://softlayer.github.io/",
+      "linkText": "{{cardsldncardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/Softlayer_API.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "prod",
+    "test"
+  ],
+  "name": "card-sldn"
+}

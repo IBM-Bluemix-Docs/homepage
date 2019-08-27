@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "sectionlinklabel": {
+      "elementType": "link",
+      "linkURL": "developing/revenue/index.html",
+      "linkText": "{{sectionlinktellmemorefinancesectionlinklabel}}"
+    },
+    "sectionLinkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/right-arrow.svg"
+    }
+  },
+  "type": "section-link",
+  "tags": [
+    "test"
+  ],
+  "name": "section-link-tell-me-more-finance"
+}

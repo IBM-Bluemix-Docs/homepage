@@ -1,0 +1,28 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistdevelopertoolssectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistdevelopertoolssectionListDesc}}"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "/list-item/list-item-cli-plugins.json",
+        "/list-item/list-item-idt-using.json",
+        "/list-item/list-item-local-app-debug.json",
+        "/list-item/list-item-idt-vsc.json",
+        "/list-item/list-item-jetbrains.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "section-list-developer-tools"
+}

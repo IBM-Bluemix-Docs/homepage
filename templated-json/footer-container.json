@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "footerList": {
+      "type": "reference",
+      "values": [
+        "/footer-list/footer-list-resources.json",
+        "/footer-list/footer-list-learn.json",
+        "/footer-list/footer-list-get-support.json"
+      ]
+    }
+  },
+  "type": "footer-container",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "footer-container"
+}

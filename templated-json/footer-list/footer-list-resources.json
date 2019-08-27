@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "footerListTitle": {
+      "elementType": "text",
+      "value": "{{footerlistresourcesfooterListTitle}}"
+    },
+    "footerListItem": {
+      "type": "reference",
+      "values": [
+        "/footer-item/footer-item-services-by-region.json",
+        "/footer-item/footer-item-prereqs.json",
+        "/footer-item/footer-item-crn.json",
+        "/footer-item/footer-item-security.json",
+        "/footer-item/footer-item-nls-support.json"
+      ]
+    }
+  },
+  "type": "footer-list",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "footer-list-resources"
+}

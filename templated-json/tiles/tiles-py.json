@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "tileLink": {
+      "elementType": "link",
+      "linkURL": "runtimes/python/getting-started.html",
+      "linkText": "{{tilespytileLink}}"
+    },
+    "tileIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/python_featured.svg"
+    }
+  },
+  "type": "tiles",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "tiles-py"
+}

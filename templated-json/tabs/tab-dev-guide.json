@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "tabMenuContainerTitle": {
+      "elementType": "text",
+      "value": "{{tabdevguidetabMenuContainerTitle}}"
+    },
+    "sections": {
+      "type": "reference",
+      "values": [
+        "/section-list/section-list-offering-setup.json",
+        "/section-list/section-list-create-docs.json",
+        "/section-list/section-list-sdks.json",
+        "/section-list/section-list-pipeline.json",
+        "/section-list/section-list-finance-accounting.json",
+        "/section-list/section-list-enable-services.json"
+      ]
+    }
+  },
+  "type": "tab-menu-container",
+  "tags": [
+    "test"
+  ],
+  "name": "tab-dev-guide"
+}

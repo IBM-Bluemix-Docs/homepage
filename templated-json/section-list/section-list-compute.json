@@ -1,0 +1,35 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistcomputesectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistcomputesectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "/section-link/section-link-tell-me-more-compute.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "/list-item/list-item-bare-metal.json",
+        "/list-item/list-item-kubernetes.json",
+        "/list-item/list-item-cf.json",
+        "/list-item/list-item-openshift.json",
+        "/list-item/list-item-vmware.json",
+        "/list-item/list-item-cloud-functions.json",
+        "/list-item/list-item-icp.json",
+        "/list-item/list-item-virtual-server.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "section-list-compute"
+}

@@ -1,0 +1,28 @@
+{
+  "elements": {
+    "sectionTileTitle": {
+      "elementType": "text",
+      "value": "{{sectiontilequickstartsectionTileTitle}}"
+    },
+    "sectionTileDescription": {
+      "elementType": "text",
+      "value": "{{sectiontilequickstartsectionTileDescription}}"
+    },
+    "sectionTileTiles": {
+      "type": "reference",
+      "values": [
+        "/tiles/tiles-devquickstart.json",
+        "/tiles/tiles-sysadminquickstart.json",
+        "/tiles/tiles-entarchquickstart.json",
+        "/tiles/tiles-litequickstart.json",
+        "/tiles/tiles-accountquickstart.json"
+      ]
+    }
+  },
+  "type": "section-tile",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "section-tile-quickstart"
+}

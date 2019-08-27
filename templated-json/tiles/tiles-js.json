@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "tileLink": {
+      "elementType": "link",
+      "linkURL": "node?topic=nodejs-getting-started",
+      "linkText": "{{tilesjstileLink}}"
+    },
+    "tileIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/node_featured.svg"
+    }
+  },
+  "type": "tiles",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "tiles-js"
+}

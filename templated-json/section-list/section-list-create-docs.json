@@ -1,0 +1,34 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistcreatedocssectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistcreatedocssectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "/section-link/section-link-tell-me-more-docs.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "/list-item/list-item-writing.json",
+        "/list-item/list-item-code-nav.json",
+        "/list-item/list-item-markdown.json",
+        "/list-item/list-item-translation.json",
+        "/list-item/list-item-builds.json",
+        "/list-item/list-item-accessibility.json",
+        "/list-item/list-item-api-docs.json",
+        "/list-item/list-item-analytics.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "test"
+  ],
+  "name": "section-list-create-docs"
+}

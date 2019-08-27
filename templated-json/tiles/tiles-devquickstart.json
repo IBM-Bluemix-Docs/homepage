@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "tileLink": {
+      "elementType": "link",
+      "linkURL": "overview/quickstart_dev.html",
+      "linkText": "{{tilesdevquickstarttileLink}}"
+    },
+    "tileIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/developer.svg"
+    }
+  },
+  "type": "tiles",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "tiles-devquickstart"
+}

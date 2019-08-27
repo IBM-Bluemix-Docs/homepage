@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardsdkwatsoncardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "services/watson/getting-started-sdks.html",
+      "linkText": "{{cardsdkwatsoncardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/watson-sdks.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "card-sdk-watson"
+}

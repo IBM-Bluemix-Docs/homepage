@@ -1,0 +1,28 @@
+{
+  "elements": {
+    "sectionCardTitle": {
+      "elementType": "text",
+      "value": "{{sectioncardapissdkssectionCardTitle}}"
+    },
+    "sectionCardDesc": {
+      "elementType": "text",
+      "value": "{{sectioncardapissdkssectionCardDesc}}"
+    },
+    "sectionCards": {
+      "type": "reference",
+      "values": [
+        "/cards/card-api-docs.json",
+        "/cards/managing-apis.json",
+        "/cards/card-sldn.json",
+        "/cards/card-sdk-mobile.json",
+        "/cards/card-sdk-watson.json"
+      ]
+    }
+  },
+  "type": "section-card",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "section-card-apis-sdks"
+}

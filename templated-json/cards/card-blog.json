@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardblogcardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "https://ibm.com/blogs/bluemix",
+      "linkText": "{{cardblogcardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/WhatIsBluemix-icon.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "test"
+  ],
+  "name": "card-blog"
+}

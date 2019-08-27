@@ -1,0 +1,35 @@
+{
+  "id": "search-platform-category",
+  "title": "Platform",
+  "items": [{
+    "id": "account",
+    "title": "Account"
+    }, {
+      "id": "creating-apps",
+      "title": "Creating apps"
+    }, {
+      "id": "billing-usage",
+      "title": "Billing and usage"
+    }, {
+    "id": "cloud-cli",
+    "title": "CLI and developer tools"
+    }, {
+    "id": "customer-portal",
+    "title": "Customer portal"
+    }, {
+    "id": "iam",
+    "title": "Identity and Access Management"
+    }, {
+    "id": "get-support",
+    "title": "Get support"
+    }, {
+    "id": "overview",
+    "title": "Overview"
+    }, {
+    "id": "resources",
+    "title": "Resources"
+    }, {
+    "id": "third-party",
+    "title": "Developing third-party services"
+    }]
+}

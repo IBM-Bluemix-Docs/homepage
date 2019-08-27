@@ -1,0 +1,31 @@
+{
+  "elements": {
+    "sectionTileTitle": {
+      "elementType": "text",
+      "value": "{{sectiontilelanguagessectionTileTitle}}"
+    },
+    "sectionTileDescription": {
+      "elementType": "text",
+      "value": "{{sectiontilelanguagessectionTileDescription}}"
+    },
+    "sectionTileTiles": {
+      "type": "reference",
+      "values": [
+        "/tiles/tiles-java.json",
+        "/tiles/tiles-js.json",
+        "/tiles/tiles-net.json",
+        "/tiles/tiles-swift.json",
+        "/tiles/tiles-go.json",
+        "/tiles/tiles-php.json",
+        "/tiles/tiles-py.json",
+        "/tiles/tiles-rb.json"
+      ]
+    }
+  },
+  "type": "section-tile",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "section-tile-languages"
+}

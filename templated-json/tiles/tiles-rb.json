@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "tileLink": {
+      "elementType": "link",
+      "linkURL": "runtimes/ruby/getting-started.html",
+      "linkText": "{{tilesrbtileLink}}"
+    },
+    "tileIcon": {
+      "elementType": "image",
+      "url": "/docs-content/v1/content/homepage/images/ruby_featured.svg"
+    }
+  },
+  "type": "tiles",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "tiles-rb"
+}

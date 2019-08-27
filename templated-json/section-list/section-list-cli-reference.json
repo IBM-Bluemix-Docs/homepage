@@ -1,0 +1,31 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistclireferencesectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistclireferencesectionListDesc}}"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "/list-item/list-item-cloud-cmd-reference.json",
+        "/list-item/list-item-idt-cmd-reference.json",
+        "/list-item/list-item-cos-cli.json",
+        "/list-item/list-item-sl-cmd-reference.json",
+        "/list-item/list-item-wsk-cmd-reference.json",
+        "/list-item/list-item-kube-cmd-reference.json",
+        "/list-item/list-item-machine-learning-cmd-reference.json",
+        "/list-item/list-item-vpc-cmd-reference.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "section-list-cli-reference"
+}

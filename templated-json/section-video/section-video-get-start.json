@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "sectionCards": {
+      "type": "reference",
+      "values": [
+        "/videos/video-welcome.json",
+        "/videos/video-developer.json",
+        "/videos/video-rent-buy.json"
+      ]
+    }
+  },
+  "type": "section-video",
+  "tags": [
+    "test",
+    "prod"
+  ],
+  "name": "section-video-get-start"
+}
